@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1575686937,
-      "filename": "lineage-16.0-20191207-whyred-signed.zip",
-      "id": "0a8f208d32442f45d44125394b637470",
+      "datetime": 1575785128,
+      "filename": "lineage-16.0-20191208-whyred-signed.zip",
+      "id": "5651f4ef6b9b37d08ec9d6c6b9ccb8cf",
       "romtype": "UNOFFICIAL",
-      "size": 707054919,
-      "url": "https://github.com/arghyac35/ota/releases/download/2.0/lineage-16.0-20191207-whyred-signed.zip",
+      "size": 707301682,
+      "url": "https://github.com/arghyac35/ota/releases/download/3.0/lineage-16.0-20191208-whyred-signed.zip",
       "version": "16.0"
     }
   ]
